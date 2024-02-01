@@ -88,6 +88,7 @@ footer {
 /* Modern button style */
 button {
       background-color: #007bff;
+      font-family: 'Sen', sans-serif;
       /* Blue color */
       color: white;
       padding: 10px 15px;
